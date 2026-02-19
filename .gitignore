@@ -188,3 +188,8 @@ data/*.sq*
 data/*/*.sq*
 data/*.SQ*
 data/*/*.SQ*
+
+data/00-raw/*
+data/01-interim/*
+data/02-processed/*
+*.pkl
